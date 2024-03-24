@@ -1,4 +1,9 @@
-# Alleya H. Nauda
+---
+layout: page
+title: Alleya H. Nauda
+permalink: /cv/
+---
+
 
 🗺 Jakarta, Indonesia
 📧 alleya.hanifa@gmail.com
