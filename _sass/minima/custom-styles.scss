@@ -1,6 +1,16 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+.post-tags a {
+  background-color: #905424;
+  padding: 2px 6px;
+  margin-right: 5px;
+  color: #333;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
 body {
  font-family: 'Albert Sans', sans-serif;
  background-color: #ece5da;
