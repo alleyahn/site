@@ -8,8 +8,6 @@
 layout: page
 ---
 
-Hello, I am **Alleya**, a UX Researcher at GovTech Edu.
+# 👋, I am **Alleya**, a UX Researcher at GovTech Edu.
 
 On the side, I am an avid tea drinker, bathroom singer, and internet cats enthusiast.
-
-I write posts on this site here...
