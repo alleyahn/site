@@ -1,12 +1,15 @@
-title: Alleya Hanifa
+title: Deeper Conversations
 author:
   name: Alleya Hanifa 
-  email: hanifa.alleya@gmail.com
+  email:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  UX Researcher, bathroom singer, tea lover, and internet cats enthusiast.
+  Alleya Hanifa's personal website. UX Researcher.
+#
+permalink: /:year/:month/:day/:title/
+
 
 # Build settings
 
@@ -21,6 +24,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-tfidf-related-posts
+  - jekyll-redirect-from
+  - jekyll-webmention_io
+ 
 
 # Theme-specific settings
 
@@ -34,7 +42,7 @@ header_pages:
 show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
+# minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -43,7 +51,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+#  skin: solarized-light
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -69,4 +77,15 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
+## 
+
+pagination:
+  enabled: true
+  debug: false
+  per_page: 20
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
