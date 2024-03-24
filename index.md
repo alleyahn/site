@@ -5,7 +5,11 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: page
 ---
 
-# Hi, I'm Alleya!!!!
+Hello, I am **Alleya**, a UX Researcher at GovTech Edu.
+
+On the side, I am an avid tea drinker, bathroom singer, and internet cats enthusiast.
+
+I write posts on this site here...
