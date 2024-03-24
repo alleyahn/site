@@ -10,6 +10,47 @@
   text-decoration: none;
 }
 
+// edit font size to make it more responsive and enhance legibility
+<style>
+  h1 {
+    font-size: calc(16px + 2vw); /* Adjust base size + scalable part */
+  }
+
+  p {
+    font-size: calc(12px + 1vw); /* Adjust base size + scalable part */
+  }
+
+  /* You can adjust these base values (16px, 12px) to fit your design better */
+</style>
+
+<style>
+  h1 {
+    font-size: calc(16px + 2vw);
+  }
+
+  p {
+    font-size: calc(12px + 1vw);
+  }
+
+  /* Adjustments for small screens */
+  @media (max-width: 600px) {
+    h1 {
+      font-size: calc(18px + 2vw); /* Slightly larger base size for small screens */
+    }
+
+    p {
+      font-size: calc(14px + 1vw);
+    }
+  }
+
+  /* Adjustments for larger screens */
+  @media (min-width: 601px) {
+    h1, p {
+      /* This is optional, only if you need specific adjustments for larger screens */
+    }
+  }
+</style>
+ //end of page adjustment
 
 body {
  font-family: 'Albert Sans', sans-serif;
