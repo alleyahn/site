@@ -10,18 +10,11 @@
   text-decoration: none;
 }
 
+a {
+  text-decoration: underline;
+}
+
 // edit font size to make it more responsive and enhance legibility
-<style>
-  h1 {
-    font-size: calc(16px + 2vw); /* Adjust base size + scalable part */
-  }
-
-  p {
-    font-size: calc(12px + 1vw); /* Adjust base size + scalable part */
-  }
-
-  /* You can adjust these base values (16px, 12px) to fit your design better */
-</style>
 
 <style>
   h1 {
@@ -50,6 +43,7 @@
     }
   }
 </style>
+
  //end of page adjustment
 
 body {
