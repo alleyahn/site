@@ -24,8 +24,13 @@ layout: base
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+  </header>
 
-     {% if page.tags %}
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+ {% if page.tags %}
     <div class="post-tags">
       Tags:
       {% for tag in page.tags %}
@@ -33,12 +38,7 @@ layout: base
       {% endfor %}
     </div>
   {% endif %}
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
+  
 {% if site.hide_related_posts != true %}
   {% include related-posts.html %}
 {% endif %}
