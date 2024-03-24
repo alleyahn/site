@@ -23,9 +23,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-tfidf-related-posts
- 
+  - jekyll-seo-tag 
 
 # Theme-specific settings
 
