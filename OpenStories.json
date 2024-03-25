@@ -1,0 +1,18 @@
+{
+  "name": "openstories-types",
+  "version": "0.0.9",
+  "main": "dist/index.d.ts",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "tsc test/*.ts --noEmit"
+  },
+  "repository": "git@github.com:dddddddddzzzz/OpenStories.git",
+  "author": "Mu-An Chiou <pkg@muan.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
