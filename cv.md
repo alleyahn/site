@@ -22,9 +22,11 @@ Currently, Alleya is seeking new opportunities to increase her exposure to vario
 
 Airtable, Amplitude, Asana, Dovetail, Google Analytics, Google Suites (Sheets, Docs, Slides, Forms), Hotjar, JIRA, Lucidchart, Metabase (with PostgreSQL), Miro, Survey Monkey, Trello, Typeform
 
+---
+
 # Professional Experience
 
-## **User Experience Researcher** @ [Govtech Edu](http://govtech.education)
+### User Experience Researcher @ [Govtech Edu](http://govtech.education)
 *Jan 2022 to present*
 
 Plan and conduct research to support Indonesia Ministry of Education, Culture, Research, and Technology (MoECRT)’s priority projects to improve the employability of university students and reducing Dosen’s administrative works through technology.
@@ -32,14 +34,14 @@ Plan and conduct research to support Indonesia Ministry of Education, Culture, R
 - Conduct foundational research, concept tests, evaluational researches for product and service improvements
 - Collaborate with product designers, product managers, business operations, etc.
 
-## **User Experience Researcher** @ [Lummo](https://www.linkedin.com/company/lummoindonesia/) (previously Tokko)
+### User Experience Researcher @ [Lummo](https://www.linkedin.com/company/lummoindonesia/) (previously Tokko)
 *Jul 2021 to Dec 2021*
 
 - Conduct and assist senior researchers in foundational research that would feed the product strategy roadmap of the company
 - Conduct evaluational researches (e.g. concept testing, usability testing)
 - Collaborate with product designers, product managers, business operations, etc.
 
-## **User Experience Researcher** at [**Glints**](http://glints.com)
+### User Experience Researcher at [**Glints**](http://glints.com)
 *Mar 2019 to Jul 2021*
 
 *Previously was a User Experience Research Intern and Junior User Experience Researcher*
