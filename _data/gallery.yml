@@ -1,0 +1,4 @@
+- url: /path/to/image1.jpg
+  caption: "Caption for image 1"
+- url: /path/to/image2.jpg
+  caption: "Caption for image 2"
