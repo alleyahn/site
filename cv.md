@@ -4,9 +4,8 @@ title: Alleya H. Nauda
 permalink: /cv/
 ---
 
-
-🗺 Jakarta, Indonesia
-📧 alleya.hanifa@gmail.com
+🗺 Jakarta, Indonesia  
+📧 hi.alleya@proton.me  
 ℹ [https://www.linkedin.com/in/hanifalleya](https://www.linkedin.com/in/hanifalleya/)
 
 # **Summary**
@@ -19,35 +18,29 @@ Currently, Alleya is seeking new opportunities to increase her exposure to vario
 |----------------------------------------------------------------------------------------------------------|------------------|
 | In-depth interview, concept tests, usability study, literature review, shadowing, focus group discussion | Survey           |
 
-**Tools** 
-*in alphabetical order*
+**Tools**  *in alphabetical order*
 
-Airtable, Amplitude, Asana, Dovetail, Google Analytics, Google Suites (Sheets, Docs, Slides, Forms), Hotjar, JIRA, Lucidchart, Metabase (with PostgreSQL), Trello, Typeform
+Airtable, Amplitude, Asana, Dovetail, Google Analytics, Google Suites (Sheets, Docs, Slides, Forms), Hotjar, JIRA, Lucidchart, Metabase (with PostgreSQL), Miro, Survey Monkey, Trello, Typeform
 
 # Professional Experience
 
-Jan 2022 to
-present
-
-**User Experience Researcher** @ [Govtech Edu](http://govtech.education)
+## **User Experience Researcher** @ [Govtech Edu](http://govtech.education)
+*Jan 2022 to present*
 
 Plan and conduct research to support Indonesia Ministry of Education, Culture, Research, and Technology (MoECRT)’s priority projects to improve the employability of university students and reducing Dosen’s administrative works through technology.
 
 - Conduct foundational research, concept tests, evaluational researches for product and service improvements
 - Collaborate with product designers, product managers, business operations, etc.
 
-Jul 2021 to
-Dec 2021
-
-Mar 2019 to Jul 2021
-
-**User Experience Researcher** @ [Lummo](https://www.linkedin.com/company/lummoindonesia/) (previously Tokko)
+## **User Experience Researcher** @ [Lummo](https://www.linkedin.com/company/lummoindonesia/) (previously Tokko)
+*Jul 2021 to Dec 2021*
 
 - Conduct and assist senior researchers in foundational research that would feed the product strategy roadmap of the company
 - Conduct evaluational researches (e.g. concept testing, usability testing)
 - Collaborate with product designers, product managers, business operations, etc.
 
-**User Experience Researcher** at [**Glints**](http://glints.com)
+## **User Experience Researcher** at [**Glints**](http://glints.com)
+*Mar 2019 to Jul 2021*
 
 *Previously was a User Experience Research Intern and Junior User Experience Researcher*
 
@@ -60,7 +53,6 @@ The first full-time UX Research hire in the company. I conducted various researc
 - Evangelise research insights: built and maintain company user research results repository, write and publish monthly insights newsletter together with another UX researcher
 
 **Fun fact:**
-
 My team won second place in Glints Moonshot Hackathon 2021!
 
 # Education
@@ -74,13 +66,6 @@ Majoring in International Relations
 
 # Languages
 
-**Indonesian** 🇮🇩
-Native
-
-**English** 🇬🇧
-Advanced
-*TOEFL iBT: 105/120 (2023)*
-
-**Korean** 🇰🇷
-Beginner
-*Yonsei University Language Institute Lv. 2*
+- **Indonesian** 🇮🇩: Native
+- **English** 🇬🇧: Advanced (TOEFL iBT: 105/120 (2023))
+- **Korean** 🇰🇷: Beginner (Yonsei University Language Institute Lv. 2)
