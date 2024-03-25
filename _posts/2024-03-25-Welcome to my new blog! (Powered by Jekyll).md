@@ -25,4 +25,5 @@ What's on my backlog for this blog? (it rhymes...)
 - Fix cv formatting
 - Figure out how to do tagging
 - Create and upload favicon
+- Migrate old blogposts
 - Blog more!
