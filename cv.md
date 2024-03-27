@@ -14,9 +14,36 @@ Alleya is a UX Researcher with 5 years of experience in startup environment. She
 
 Currently, Alleya is seeking new opportunities to increase her exposure to various research domains.
 
-| **Qualitative**                                                                                          | **Quantitative** |
-|----------------------------------------------------------------------------------------------------------|------------------|
-| In-depth interview, concept tests, usability study, literature review, shadowing, focus group discussion | Survey           |
+<table>
+  <tr>
+    <th><div style="width:290px;">Qualitative</div></th>
+    <th><div style="width:290px;">Quantitative</div></th>
+  </tr>
+  <tr>
+    <td>
+      <div style="width:290px;">
+        <ul>
+          <li>In-depth interview</li>
+          <li>Concept tests</li>
+          <li>Usability study</li>
+          <li>Literature review</li>
+          <li>Shadowing</li>
+          <li>Focus group discussion</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <div style="width:290px;">
+        <ul>
+          <li>Survey</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
 
 **Tools**  *in alphabetical order*
 
@@ -26,7 +53,7 @@ Airtable, Amplitude, Asana, Dovetail, Google Analytics, Google Suites (Sheets, D
 
 # Professional Experience
 
-### User Experience Researcher @ [Govtech Edu](http://govtech.education)
+### User Experience Researcher @ [Govtech Edu](https://govtechedu.id)
 *Jan 2022 to present*
 
 Plan and conduct research to support Indonesia Ministry of Education, Culture, Research, and Technology (MoECRT)’s priority projects to improve the employability of university students and reducing Dosen’s administrative works through technology.
