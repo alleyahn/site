@@ -4,6 +4,8 @@ title: More
 permalink: /more/
 ---
 
-## Other kool stuffs but not important enough to be on the site nav
+# I have other hobbies
+... here are some of them.
 
-**In construction**
+- [Photos](photos.deeperconvs.blog): see the photos I took. Not professional by any means, but I enjoy capturing moments and eye candies.
+- _More to come_
