@@ -1,6 +1,8 @@
-﻿title: Songs that sampled 'Last Summer Whisper'
+---
+title: Songs that sampled 'Last Summer Whisper'
 author: Alleya Hanifa
 tags: music, Written in English
+---
 
 I keep finding songs that sampled Anri's '[Last Summer Whisper](https://www.youtube.com/watch?v=SNq4zqTN_DQ)', even made a Spotify playlist to save them.
 
