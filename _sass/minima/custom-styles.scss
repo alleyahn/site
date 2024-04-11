@@ -33,31 +33,48 @@ a {
 
 // HOME/INDEX only! edit font size to make it more responsive and enhance legibility
 
-.home-page  h1 {
-    font-size: calc(16px + 2vw);
+.home-page h1 {
+  font-size: calc(16px + 2vw);
+}
+
+.home-page h2 {
+  font-size: calc(14px + 1.5vw);
+}
+
+.home-page h3 {
+  font-size: calc(12px + 1.2vw);
+}
+
+.home-page p {
+  font-size: calc(12px + 1vw);
+}
+
+/* Adjustments for small screens */
+@media (max-width: 600px) {
+  .home-page h1 {
+    font-size: calc(18px + 2vw); /* Slightly larger base size for small screens */
   }
 
-.home-page  p {
-    font-size: calc(12px + 1vw);
+  .home-page h2 {
+    font-size: calc(16px + 1.5vw);
   }
 
-  /* Adjustments for small screens */
-  @media (max-width: 600px) {
-.home-page    h1 {
-      font-size: calc(18px + 2vw); /* Slightly larger base size for small screens */
-    }
-
-.home-page    p {
-      font-size: calc(14px + 1vw);
-    }
+  .home-page h3 {
+    font-size: calc(14px + 1.2vw);
   }
 
-  /* Adjustments for larger screens */
-  @media (min-width: 601px) {
-.home-page    h1, p {
-      /* This is optional, only if you need specific adjustments for larger screens */
-    }
+  .home-page p {
+    font-size: calc(14px + 1vw);
   }
+}
+
+/* Adjustments for larger screens */
+@media (min-width: 601px) {
+  .home-page h1, .home-page h2, .home-page h3, .home-page p {
+    /* This is optional, only if you need specific adjustments for larger screens */
+    font-size: calc(12px + 0.8vw); /* Example adjustment for all text types */
+  }
+}
 
  //end of page adjustment
 
