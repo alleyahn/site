@@ -12,6 +12,11 @@ description: >
 permalink: /:year/:month/:day/:title/
 
 
+collections:
+  pulses:
+    output: true
+    permalink: /pulses/:path/
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
