@@ -26,7 +26,7 @@ custom_class: home-page
 <div class="latest-pulse">
 <h3>Latest Pulse</h3><p><a href="/pulses">(View more)</a></p>
   <article>
-    <p class="small">{{ latest_pulse.date }}</p>
+    <p class="small">{{ latest_pulse.title }}</p>
     <p>{{ latest_pulse.content | strip_html | truncate: 150 }}</p>
     
 
