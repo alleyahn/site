@@ -6,7 +6,7 @@ author: Alleya Hanifa
 collections:
   pulses:
     output: true
-    permalink: /pulse/:path/
+    permalink: /pulses/:path/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
