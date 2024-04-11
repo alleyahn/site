@@ -1,15 +1,15 @@
 ---
 layout: base
-title: Most recent pulses
+title: Recent pulses
 ---
 
 <div class="all-pulses">
-  <h1>Recent pulses</h1>
+  <h1>Latest 25 pulses</h1>
   {% assign pulses_chrono = site.pulses | sort: 'date' | reverse %}
   {% for pulse in pulses_chrono limit:25 %}
     <article>
-      <h3>{{ pulse.title }}</h3>
-      <p>{{ pulse.content | strip_html | truncatewords: 50 }}</p>
+      <u><p>{{ pulse.title }}</p></u>
+      <h3>{{ pulse.content | strip_html | truncatewords: 50 }}</h3>
     </article>
   {% endfor %}
 </div>
