@@ -18,15 +18,15 @@ custom_class: home-page
 <p>My name is Alleya and I am UX Researcher, avid tea drinker, and internet cat enthusiast based in Jakarta, Indonesia.</p>
 <br>
 
-<u><h3>Quick access</h3></u>
+<h3>Quick access</h3>
 <li>Head to <a href="/posts">Posts</a> to get a glimpse of my thoughts.</li>
 <li>Here for for business purposes? Maybe check out my <a href="/cv">CV</a> </li>
 
 {% assign latest_pulse = site.pulses | last %}
 <div class="latest-pulse">
-  <<u>h3>Latest Pulse</h3></u><p class="small-text"><a href="/pulses">(View more)</a></p>
+<h3>Latest Pulse</h3><p><a href="/pulses">(View more)</a></p>
   <article>
-    <!-- <h3>{{ latest_pulse.title }}</h3> -->
+    <p>{{ latest_pulse.date }}</p>
     <p>{{ latest_pulse.content | strip_html | truncate: 150 }}</p>
     
 
