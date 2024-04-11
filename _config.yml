@@ -38,12 +38,6 @@ header_pages:
 show_excerpts: true
 
 
-collections:
-  pulse:
-    output: true
-    permalink: /pulse/:path/
-
-
 # Minima specific settings, which are only available from Minima 3.0 onward.
 # minima:
   # Minima skin selection.
