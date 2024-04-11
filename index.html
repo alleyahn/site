@@ -26,11 +26,11 @@ custom_class: home-page
 
 {% assign latest_pulse = site.pulses | last %}
 <div class="latest-pulse">
-  <h3>Latest Pulse</h3>
+  <h3>Latest Pulse</h3><p><a href="/pulses">(View more)</a></p>
   <article>
     <!-- <h3>{{ latest_pulse.title }}</h3> -->
     <p>{{ latest_pulse.content | strip_html | truncate: 150 }}</p>
-    <a href="/pulses">View more pulses</a>
+    
 
   </article>
 </div>
