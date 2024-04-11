@@ -34,47 +34,59 @@ a {
 // HOME/INDEX only! edit font size to make it more responsive and enhance legibility
 
 .home-page h1 {
-  font-size: calc(16px + 2vw);
+  font-size: calc(20px + 2.5vw); /* Largest base size plus a larger vw percentage */
 }
 
 .home-page h2 {
-  font-size: calc(14px + 1.5vw);
+  font-size: calc(18px + 2vw); /* Slightly smaller base size than h1, with a bit less vw addition */
 }
 
 .home-page h3 {
-  font-size: calc(12px + 1.2vw);
+  font-size: calc(16px + 1.5vw); /* Smaller base size than h2, with a smaller vw addition */
 }
 
 .home-page p {
-  font-size: calc(12px + 1vw);
+  font-size: calc(14px + 1vw); /* Smallest base size with the smallest vw addition */
 }
 
 /* Adjustments for small screens */
 @media (max-width: 600px) {
   .home-page h1 {
-    font-size: calc(18px + 2vw); /* Slightly larger base size for small screens */
+    font-size: calc(22px + 4vw); /* Increase for small screens to ensure visibility */
   }
 
   .home-page h2 {
-    font-size: calc(16px + 1.5vw);
+    font-size: calc(20px + 3vw);
   }
 
   .home-page h3 {
-    font-size: calc(14px + 1.2vw);
+    font-size: calc(18px + 2vw);
   }
 
   .home-page p {
-    font-size: calc(14px + 1vw);
+    font-size: calc(16px + 1vw); /* Ensuring paragraphs are still readable on small screens */
   }
 }
 
-/* Adjustments for larger screens */
-@media (min-width: 601px) {
-  .home-page h1, .home-page h2, .home-page h3, .home-page p {
-    /* This is optional, only if you need specific adjustments for larger screens */
-    font-size: calc(12px + 0.8vw); /* Example adjustment for all text types */
+/* Optional adjustments for larger screens to ensure sizes don't become too large */
+@media (min-width: 1201px) {
+  .home-page h1 {
+    font-size: calc(24px + 1vw); /* Cap the growth a bit on very large screens */
+  }
+
+  .home-page h2 {
+    font-size: calc(22px + 0.5vw);
+  }
+
+  .home-page h3 {
+    font-size: calc(20px + 0.5vw);
+  }
+
+  .home-page p {
+    font-size: 18px; /* Paragraphs don't need to grow as much */
   }
 }
+
 
  //end of page adjustment
 
