@@ -21,16 +21,16 @@ custom_class: home-page
 <p">Head to <a href="/posts">Posts</a> to get a glimpse of my thoughts.</p>
 
 <hr>
-{% assign latest_pulse = site.posts | where:"categories","pulses" | first %}
-{% if latest_pulse %}
-  <div class="latest-pulse">
-    <h2>Latest Pulse</h2>
-    <article>
-      <h3>{{ latest_pulse.title }}</h3>
-      <p>{{ latest_pulse.excerpt | strip_html | truncate: 150 }}</p>
-      <a href="{{ latest_pulse.url | relative_url }}">Read more</a>
-    </article>
-  </div>
-{% endif %}
+
+{% assign latest_pulse = site.pulses | last %}
+<div class="latest-pulse">
+  <h2>Latest Pulse</h2>
+  <article>
+    <h3>{{ latest_pulse.title }}</h3>
+    <p>{{ latest_pulse.content | strip_html | truncate: 150 }}</p>
+    <a href="{{ latest_pulse.url }}">Read more</a>
+  </article>
+</div>
+
 
 
