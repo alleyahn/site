@@ -8,7 +8,7 @@ title: All Shorties
   {% assign pulses_chrono = site.pulses | sort: 'date' | reverse %}
   {% for pulse in pulses_chrono limit:25 %}
     <article>
-      <h2><a href="{{ pulse.url }}">{{ pulse.title }}</a></h2>
+      <h3>{{ pulse.title }}</h3>
       <p>{{ pulse.content | strip_html | truncatewords: 50 }}</p>
     </article>
   {% endfor %}
