@@ -31,6 +31,12 @@ a {
   text-decoration: underline;
 }
 
+//add small text
+
+.small-text {
+  font-size: 0.8rem; /* or 12px, depending on your base font size */
+}
+
 // HOME/INDEX only! edit font size to make it more responsive and enhance legibility
 
 .home-page h1 {
@@ -66,6 +72,7 @@ a {
   .home-page p {
     font-size: calc(16px + 1vw); /* Ensuring paragraphs are still readable on small screens */
   }
+
 }
 
 /* Optional adjustments for larger screens to ensure sizes don't become too large */
