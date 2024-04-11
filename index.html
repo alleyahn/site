@@ -21,12 +21,12 @@ custom_class: home-page
 <h3>Quick access</h3>
 <li>Head to <a href="/posts">Posts</a> to get a glimpse of my thoughts.</li>
 <li>Here for for business purposes? Maybe check out my <a href="/cv">CV</a> </li>
-
+<br>
 {% assign latest_pulse = site.pulses | last %}
 <div class="latest-pulse">
 <h3>Latest Pulse</h3><p><a href="/pulses">(View more)</a></p>
   <article>
-    <p>{{ latest_pulse.date }}</p>
+    <p class="small">{{ latest_pulse.date }}</p>
     <p>{{ latest_pulse.content | strip_html | truncate: 150 }}</p>
     
 
