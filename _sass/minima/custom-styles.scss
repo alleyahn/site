@@ -2,23 +2,6 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 @import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&display=swap')
-  
-// gallery
-.gallery-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-.gallery-item {
-  flex-basis: 30%;
-  margin-bottom: 20px;
-}
-.gallery-item img {
-  width: 100%;
-  height: auto;
-}
-
-// end of gallery
 
 .post-tags a {
   background-color: #905424;
