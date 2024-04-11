@@ -17,18 +17,21 @@ custom_class: home-page
   internet, music, yadda... yadda....<p>
 <p>My name is Alleya and I am UX Researcher, avid tea drinker, and internet cat enthusiast based in Jakarta, Indonesia.</p>
 <br>
-<hr>
-<p">Head to <a href="/posts">Posts</a> to get a glimpse of my thoughts.</p>
+
+<h3>✨Quick access✨</h3>
+<li>Head to <a href="/posts">Posts</a> to get a glimpse of my thoughts.</li>
+<li>Here for for business purposes? Maybe check out my <a href="/cv">CV</a> </li>
 
 <hr>
 
 {% assign latest_pulse = site.pulses | last %}
 <div class="latest-pulse">
-  <h2>Latest Pulse</h2>
+  <h3>Latest Pulse</h3>
   <article>
-    <h3>{{ latest_pulse.title }}</h3>
+    <!-- <h3>{{ latest_pulse.title }}</h3> -->
     <p>{{ latest_pulse.content | strip_html | truncate: 150 }}</p>
-    <a href="{{ latest_pulse.url }}">Read more</a>
+    <a href="/pulses">View more pulses</a>
+
   </article>
 </div>
 
