@@ -1,12 +1,8 @@
 title: Deeper Conversations
-author: Alleya Hanifa
+author: 
   name: Alleya Hanifa 
   email:
 
-collections:
-  pulses:
-    output: true
-    permalink: /pulses/:path/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -41,7 +37,6 @@ header_pages:
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
-
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 # minima:
