@@ -4,8 +4,6 @@ title: More
 permalink: /more/
 ---
 
-# I have other hobbies
-... here are some of them.
+Other things with less importance to be on the navbar
 
-- [Photos](https://photos.deeperconvs.blog): see the photos I took. Not professional by any means, but I enjoy capturing moments and eye candies.
-- _More to come_
+- [Stuffs]
