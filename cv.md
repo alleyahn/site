@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alleya H. Nauda
+title: Alleya H.
 permalink: /cv/
 ---
 
