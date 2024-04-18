@@ -68,7 +68,7 @@ Plan and conduct research to support Indonesia Ministry of Education, Culture, R
 - Conduct evaluational researches (e.g. concept testing, usability testing)
 - Collaborate with product designers, product managers, business operations, etc.
 
-### User Experience Researcher at [**Glints**](http://glints.com)
+### User Experience Researcher @ [**Glints**](http://glints.com)
 *Mar 2019 to Jul 2021*
 
 *Previously was a User Experience Research Intern and Junior User Experience Researcher*
