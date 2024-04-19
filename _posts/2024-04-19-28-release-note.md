@@ -1,11 +1,11 @@
 ---
 date: 2024-04-19
-title: Release Note
+title: Changelog 19 April 2024 version 28.0
 author: Alleya Hanifa
 tags: blog, personal
 ---
 
-# Changelog 19 April 2024 version 28.0
+
 
 ## What's New in Version 28.0
 
