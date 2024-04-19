@@ -33,7 +33,7 @@ Extensive hours spent sampling different types of tea have significantly honed A
 
 - The Overthinking Engine may still activate, particularly under stress, and may now include expanded topics such as "advanced womanhood." We are working hard to keep this problem in check.
 
-## Coming Soon for 28.0
+## Coming Soon for 2X.0
 
-- New (re-pick up) hobbies and skills
+- Rediscovery of old hobbies and acquisition of new skills
 - Healthier + enhanced frugal lifestyle (for real this time, amen)
