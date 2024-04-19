@@ -1,13 +1,13 @@
 ---
-date: 2024-04-19
-title: Changelog 19 April 2024 version 28.0
+date: 2024-04-20
+title: Changelog 20 April 2024 version 2X.0
 author: Alleya Hanifa
 tags: blog, personal
 ---
 
 
 
-## What's New in Version 28.0
+## What's New in Version 2X.0
 
 
 - **Improved failure tolerance level**: Due to increased exposure to failure and new insights, Alleya is now more likely to take even more uncomfortable paths and act spontaneously.
