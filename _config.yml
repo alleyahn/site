@@ -11,6 +11,7 @@ description: >
 #
 permalink: /:year/:month/:day/:title/
 
+timezone: Etc/GMT+7
 
 collections:
   pulses:
