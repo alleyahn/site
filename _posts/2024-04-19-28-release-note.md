@@ -10,7 +10,7 @@ tags: blog, personal
 ## What's New in Version 2X.0
 
 
-- **Improved failure tolerance level**: Due to increased exposure to failure and new insights, Alleya is now more likely to take even more uncomfortable paths and act spontaneously.
+- **Improved failure tolerance level**: Due to increased exposure to failure and new insights, Alleya is now more likely to take even more uncomfortable paths and act even more spontaneously.
 
 - **Refined Taste Bud Functionality**:
 Extensive hours spent sampling different types of tea have significantly honed Alleya's ability to identify subtle flavours. She is less likely to describe food and beverages as "yummy" and is more likely to use more appropriate descriptors.
@@ -25,6 +25,8 @@ Extensive hours spent sampling different types of tea have significantly honed A
 ## Bug Fixes
 
 - **Removed "changing clothes" as a logical consequence of taking a shower**: enhanced life experience has allowed Alleya to proactively take a shower midday when the weather gets hot, improving overall mood. 
+
+- **Reduced fear of white colour**: Apprehension towards white items has now been lowered due to acceptance of normal signs of wear, resulting in increased purchases of the items. Thanks to [Rajiv Surendra](https://m.youtube.com/watch?v=ClAqiBqqtu0) for fixing this bug.
 
 ## Known Issues
 - Occasionally, Alleya might experience nostalgia pangs or moments of 'staircase wit' from earlier versions. Temporary and mostly harmless. 
