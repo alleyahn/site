@@ -1,6 +1,6 @@
 ---
 date: 2024-04-20
-title: Release Notes 20 April 2024: Version 2X.0
+title: Release Notes for Version 2X.0
 author: Alleya Hanifa
 tags: blog, personal
 ---
