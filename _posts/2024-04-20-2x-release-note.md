@@ -13,7 +13,7 @@ tags: blog, personal
 - **Improved failure tolerance level**: Due to increased exposure to failure and new insights, Alleya is now more likely to take even more uncomfortable paths and act even more spontaneously.
 
 - **Refined Taste Bud functionality**:
-Extensive hours spent sampling different types of tea have significantly honed Alleya's ability to identify subtle flavours. She is less likely to describe food and beverages as "yummy" and is more likely to use more appropriate descriptors.
+Extensive hours spent sampling different types of tea have significantly honed Alleya's ability to identify subtle flavours. She is less likely to describe food and beverages as "yummy" and is more likely to use more appropriate descriptors such as "nutty" or "tangy".
 
 - **Enhanced spice tolerance**: Devouring spicy tteokbokki or *cumi cabai hijau* now doesn't always result in diarrhoea. However, please note that *cengek* is still out of the question. *Bon appétit!*
 
