@@ -11,7 +11,7 @@ description: >
 #
 permalink: /:year/:month/:day/:title/
 
-timezone: '+0700'
+timezone: Asia/Jakarta
 
 collections:
   pulses:
