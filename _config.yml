@@ -11,7 +11,7 @@ description: >
 #
 permalink: /:year/:month/:day/:title/
 
-timezone: Etc/GMT+7
+timezone: '+0700'
 
 collections:
   pulses:
