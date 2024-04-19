@@ -1,5 +1,5 @@
 ---
-date: 2024-04-20
+date: 2004-04-20
 title: Changelog 20 April 2024 version 2X.0
 author: Alleya Hanifa
 tags: blog, personal
