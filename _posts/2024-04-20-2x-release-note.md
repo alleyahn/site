@@ -1,11 +1,11 @@
 ---
 date: 2024-04-20
-title: Changelog 20 April 2024 version 2X.0
+title: Release Notes 20 April 2024: Version 2X.0
 author: Alleya Hanifa
 tags: blog, personal
 ---
 
-
+**Alleya is now available in Version 2X.0 🎉**
 
 ## What's New in Version 2X.0
 
@@ -31,8 +31,9 @@ Extensive hours spent sampling different types of tea have significantly honed A
 ## Known Issues
 - Occasionally, Alleya might experience nostalgia pangs or moments of 'staircase wit' from earlier versions. Temporary and mostly harmless. 
 
-- Overthinking Engine might still activate under stress; further optimisation is scheduled for the next update.
+- The Overthinking Engine may still activate, particularly under stress, and may now include expanded topics such as "advanced womanhood." We are working hard to keep this problem in check.
 
-## Coming Soon
+## Coming Soon for 28.0
 
+- New (re-pick up) hobbies and skills
 - Healthier + enhanced frugal lifestyle (for real this time, amen)
