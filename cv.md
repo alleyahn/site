@@ -3,6 +3,7 @@ layout: page
 title: Alleya H.
 permalink: /cv/
 ---
+*Updated as per 01 January 2024*
 
 🗺 Jakarta, Indonesia  
 📧 hi.alleya@proton.me  
