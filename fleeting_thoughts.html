@@ -1,10 +1,10 @@
 ---
 layout: base
-title: Recent pulses
+title: Recent fleeting thoughts
 ---
 
 <div class="all-pulses">
-  <h1>Latest 25 pulses</h1>
+  <h1>Latest 25 fleeting thoughts</h1>
   {% assign pulses_chrono = site.pulses | sort: 'date' | reverse %}
   {% for pulse in pulses_chrono limit:25 %}
     <article>
